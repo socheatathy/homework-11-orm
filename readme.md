@@ -17,6 +17,7 @@ fork this repo to your repository
 - [ ] fork this repo to your repository
 - [ ] clone the forked repo to your local machine
 - [ ] install dependencies `pip install -r requirements.txt`
+- [ ] restore the database from `ch08_.ConstructCo.dump` file
 - [ ] create `.env` file with content from `example.env` and update the values to your local environment
 - [ ] create `answer.md` file with your answers to the questions above
 - [ ] commit and push your changes to your forked repo
