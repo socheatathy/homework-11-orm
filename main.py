@@ -44,7 +44,3 @@ Delete employee record
 '''
 Query assigment where assign_date is larger than 2010-01-01
 '''
-# assignments = session.query(Assignment).filter(Assignment.assign_date > "2010-03-22").all()
-# for assignment in assignments:
-#     print(assignment.assign_num, assignment.assign_date, assignment.proj_num, assignment.emp_num, assignment.assign_job, assignment.assign_chg_hr, assignment.assign_hours, assignment.assign_charge)
-
